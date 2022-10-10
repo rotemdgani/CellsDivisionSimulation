@@ -1,8 +1,3 @@
-# Name: Nadav Vernia
-# ID: 315535351
-# Name: Rotem Dgani
-# ID: 208948927
-
 import sys
 import numpy as np
 import pandas as pd
